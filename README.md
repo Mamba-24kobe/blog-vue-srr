@@ -1,11 +1,12 @@
 # vue-ssr
 
-## Project setup
+## 项目启动
+### 安装依赖
 ```
 npm install
 ```
 ```
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
