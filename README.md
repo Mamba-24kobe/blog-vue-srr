@@ -3,7 +3,7 @@
 ## 项目启动
 ### 安装依赖
 ```
-npm install
+cnpm install
 ```
 ### 打包
 ```
