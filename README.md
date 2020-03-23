@@ -5,7 +5,6 @@
 ```
 npm install
 ```
-```
 ### 打包
 ```
 npm run build
