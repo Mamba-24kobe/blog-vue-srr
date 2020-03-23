@@ -4,26 +4,15 @@
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
 ### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Run your tests
+### 运行node服务
 ```
-npm run test
+cd src
+node/nodemon server.js
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
